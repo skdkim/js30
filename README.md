@@ -1,6 +1,8 @@
 # Javascript Drums
 
-[live link](https://skdkim.github.io/jsDrums/)
+[live drums!](https://skdkim.github.io/jsDrums/)
+
+[Portfolio](http://www.davidkim.tech/)
 
 ![ss1](https://github.com/skdkim/jsDrums/blob/master/images/ss1.jpg)
 
