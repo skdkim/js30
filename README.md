@@ -2,7 +2,7 @@
 
 [live drums!](https://skdkim.github.io/jsDrums/)
 
-Check out my [Portfolio!](http://www.davidkim.tech/)
+Check out my full [portfolio](http://www.davidkim.tech/)!
 
 ![ss1](https://github.com/skdkim/jsDrums/blob/master/images/ss1.jpg)
 
